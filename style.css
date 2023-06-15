@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #212121;
+  }
+
+  .clock-container {
+    font-size: 4rem;
+    text-align: center;
+    margin: 200px auto 0;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 20vh;
+  }
+
+  .clock-container span {
+    padding: 20px;
+    background: #69183a;
+    border-radius: 10px;
+  }
+
+  #span-date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-style:italic ;
+    color: #844f65;
+  }
+
+  
