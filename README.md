@@ -28,7 +28,7 @@
 
 ## 🔖 Page
 
-- Você pode visualizar o resultado final do projeto através [desse link](https://angelicacamp.github.io/to-do-list/).
+- Você pode visualizar o resultado final do projeto através [desse link](https://angelicacamp.github.io/digital-clock/).
 
 <br>
 ---
