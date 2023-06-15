@@ -10,7 +10,7 @@
 
 
 
-## 📝 Aplicação
+## ⌚ Aplicação
 
 > Aplicação Web desenvolvida com o objetivo de aperfeiçoar o conhecimento de Datas aprendidas no curso de Javascript. 
 
