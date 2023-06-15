@@ -6,16 +6,6 @@
   <a href="#-page">Page</a>   
   </p>
 
-
-
-  
-
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="to-do-list.gif"> 
-  </a>   
-</div>
-
 </div><br>
 
 
